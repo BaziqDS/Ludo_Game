@@ -56,10 +56,10 @@ Run the executable:
 ![Loading](Screenshots/Loading.jpg)
 
 ### Player Selection
-![Player Selection](Screenshots/Player Selection Menu.jpg)
+![Player Selection](Screenshots/Player%20Selection%20Menu.jpg)
 
 ### Actual Game
-![Actual Game](Screenshots/Actual Game.jpg)
+![Actual Game](Screenshots/Actual%20Game.jpg)
 
 ## Project Structure
 
