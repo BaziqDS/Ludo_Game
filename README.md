@@ -1,5 +1,9 @@
 # Ludo Game
 
+## Project Timeline
+- 📅 **Originally developed and completed:** July 2023 (Course Project, NED University)
+- 📤 **Uploaded to GitHub:** December 2025
+
 A C++ implementation of the classic Ludo board game using SFML for graphics and user interface.
 
 ## Features
