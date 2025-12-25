@@ -74,7 +74,3 @@ Run the executable:
 ## Contributing
 
 This is a personal project for learning purposes. Feel free to fork and modify.
-
-## License
-
-[Add license if applicable]
