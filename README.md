@@ -43,6 +43,20 @@ Run the executable:
 ./ludo-game
 ```
 
+## Screenshots
+
+### Menu
+![Menu](Screenshots/Menu.jpg)
+
+### Loading Screen
+![Loading](Screenshots/Loading.jpg)
+
+### Player Selection
+![Player Selection](Screenshots/Player Selection Menu.jpg)
+
+### Actual Game
+![Actual Game](Screenshots/Actual Game.jpg)
+
 ## Project Structure
 
 - `src/` - Source code files
